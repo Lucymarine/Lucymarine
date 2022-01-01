@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Languages and Tools:
-c csharp mssql csharp
 
 
 <!---
