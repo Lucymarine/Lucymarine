@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
--c#
+- c#
 
 
 <!---
