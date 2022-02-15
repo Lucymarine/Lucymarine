@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Lucymarine
-- 👀 I’m interested in C,C++,JAVA,SQL,LUA
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in C
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- C# , Java, SQL, LUA
 
 
 <!---
